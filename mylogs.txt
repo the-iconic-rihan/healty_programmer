@@ -1,0 +1,23 @@
+ 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-02-23 13:47:34.051291 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-02-23 13:47:46.286319 
+	--------The exercise details-----
+ 	Drank water at :  2021-02-23 13:47:58.175195 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-02-23 13:48:06.681743 
+	--------The exercise details-----
+ 	Eyes relax  at :  2021-02-23 13:48:15.981520 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-02-23 13:53:17.634636 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-02-23 13:53:27.819687 
+	--------The exercise details-----
+ 	Drank water at :  2021-02-23 13:53:42.064331 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-02-23 13:53:47.300525 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-02-23 13:53:56.563733 
+	--------The exercise details-----
+ 	Eyes relax  at :  2021-02-23 13:54:00.115811
