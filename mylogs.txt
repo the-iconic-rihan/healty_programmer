@@ -1,23 +1,57 @@
  
 	--------The exercise details-----
- 	Physical activity done at :  2021-02-23 13:47:34.051291 
+ 	Physical activity done at :  2021-03-10 11:07:04.189389 
 	--------The exercise details-----
- 	Physical activity done at :  2021-02-23 13:47:46.286319 
+ 	Drank water at :  2021-03-10 11:07:24.135881 
 	--------The exercise details-----
- 	Drank water at :  2021-02-23 13:47:58.175195 
+ 	Eyes relax  at :  2021-03-10 11:07:29.370442 
 	--------The exercise details-----
- 	Physical activity done at :  2021-02-23 13:48:06.681743 
+ 	Physical activity done at :  2021-03-10 11:07:33.126995 
 	--------The exercise details-----
- 	Eyes relax  at :  2021-02-23 13:48:15.981520 
+ 	Physical activity done at :  2021-03-10 11:17:43.237462 
 	--------The exercise details-----
- 	Physical activity done at :  2021-02-23 13:53:17.634636 
+ 	Physical activity done at :  2021-03-10 11:17:54.239164 
 	--------The exercise details-----
- 	Physical activity done at :  2021-02-23 13:53:27.819687 
+ 	Physical activity done at :  2021-03-10 11:20:20.533111 
 	--------The exercise details-----
- 	Drank water at :  2021-02-23 13:53:42.064331 
+ 	Physical activity done at :  2021-03-10 11:20:30.005919 
 	--------The exercise details-----
- 	Physical activity done at :  2021-02-23 13:53:47.300525 
+ 	Physical activity done at :  2021-03-10 11:21:10.996291 
 	--------The exercise details-----
- 	Physical activity done at :  2021-02-23 13:53:56.563733 
+ 	Physical activity done at :  2021-03-10 11:21:20.715311 
 	--------The exercise details-----
- 	Eyes relax  at :  2021-02-23 13:54:00.115811
+ 	Physical activity done at :  2021-03-10 11:26:45.949842 
+	--------The exercise details-----
+ 	Drank water at :  2021-03-10 11:26:54.027728 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-03-10 11:28:36.222868 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-03-10 11:28:48.072234 
+	--------The exercise details-----
+ 	Drank water at :  2021-03-10 11:28:56.240591 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-03-10 11:29:33.314668 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-03-10 11:29:41.546868 
+	--------The exercise details-----
+ 	Drank water at :  2021-03-10 11:29:49.340153 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-03-10 11:29:53.603518 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-03-10 11:30:01.812561 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-03-10 11:30:10.888603 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-03-10 11:37:00.070376 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-03-10 11:37:10.216716 
+	--------The exercise details-----
+ 	Drank water at :  2021-03-10 11:37:18.365391 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-03-10 11:37:25.856253 
+	--------The exercise details-----
+ 	Physical activity done at :  2021-03-10 11:37:35.168192 
+	--------The exercise details-----
+ 	Drank water at :  2021-03-10 11:37:42.736278 
+	--------The exercise details-----
+ 	Eyes relax  at :  2021-03-10 11:37:49.847943
